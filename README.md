@@ -1,20 +1,16 @@
-# Cleanfolio
+# Binodfolio
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
+Binodfolio is my portfolio built with React.
 
-## Preview
-
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
-
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://rjshkhr.github.io/binodfolio)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rjshkhr/cleanfolio
-cd cleanfolio
+git clone https://github.com/binodcoder/binodfolio
+cd binodfolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
@@ -42,7 +38,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>Binod Bhandari</title>` with `<title>Your Name</title>`.
 
 - Open the `src/portfolio.js` file and make the necessary changes.
 
@@ -50,7 +46,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://binodcoder.github.io/binodfolio"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
@@ -62,7 +58,3 @@ to `"homepage": "https://yourusername.github.io"`.
 yarn build
 yarn deploy
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
