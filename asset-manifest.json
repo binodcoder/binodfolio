@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/binodfolio/static/css/main.827c92e4.chunk.css",
-    "main.js": "/binodfolio/static/js/main.2627b7e2.chunk.js",
-    "main.js.map": "/binodfolio/static/js/main.2627b7e2.chunk.js.map",
+    "main.js": "/binodfolio/static/js/main.563705d4.chunk.js",
+    "main.js.map": "/binodfolio/static/js/main.563705d4.chunk.js.map",
     "runtime-main.js": "/binodfolio/static/js/runtime-main.da26e2ec.js",
     "runtime-main.js.map": "/binodfolio/static/js/runtime-main.da26e2ec.js.map",
     "static/js/2.f5288c40.chunk.js": "/binodfolio/static/js/2.f5288c40.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.da26e2ec.js",
     "static/js/2.f5288c40.chunk.js",
     "static/css/main.827c92e4.chunk.css",
-    "static/js/main.2627b7e2.chunk.js"
+    "static/js/main.563705d4.chunk.js"
   ]
 }
