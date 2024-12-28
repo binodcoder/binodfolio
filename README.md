@@ -2,7 +2,7 @@
 
 Binodfolio is my portfolio built with React.
 
-[Live Demo](https://rjshkhr.github.io/binodfolio)
+[Live Demo](https://binodcoder.github.io/binodfolio)
 
 ## Instructions
 
@@ -48,7 +48,7 @@ yarn start
 
 `"homepage": "https://binodcoder.github.io/binodfolio"`
 
-to `"homepage": "https://yourusername.github.io"`.
+to `"homepage": "https://yourusername.github.io/yourreponame"`.
 
 - Push the changes to your repository.
 
