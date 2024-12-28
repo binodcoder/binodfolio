@@ -55,15 +55,20 @@ const skills = [
   'JavaScript',
   'React',
   'Material UI',
-  'Git',
-  'CI/CD',
   'Jest',
-  ' Java',
+  'Java',
   'Spring Boot',
   'MySQL',
   'MongoDB',
   'Dart',
   'Flutter',
+  'BloC',
+  'Mokito',
+  'JUnit',
+  'RESTful API',
+  'Clean Code',
+  'Git',
+  'CI/CD',
 ]
 
 const contact = {
