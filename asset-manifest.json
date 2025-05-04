@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/binodfolio/static/css/main.827c92e4.chunk.css",
-    "main.js": "/binodfolio/static/js/main.b6f0a7b5.chunk.js",
-    "main.js.map": "/binodfolio/static/js/main.b6f0a7b5.chunk.js.map",
+    "main.css": "/binodfolio/static/css/main.55ddbabc.chunk.css",
+    "main.js": "/binodfolio/static/js/main.4280c5ee.chunk.js",
+    "main.js.map": "/binodfolio/static/js/main.4280c5ee.chunk.js.map",
     "runtime-main.js": "/binodfolio/static/js/runtime-main.da26e2ec.js",
     "runtime-main.js.map": "/binodfolio/static/js/runtime-main.da26e2ec.js.map",
-    "static/js/2.f5288c40.chunk.js": "/binodfolio/static/js/2.f5288c40.chunk.js",
-    "static/js/2.f5288c40.chunk.js.map": "/binodfolio/static/js/2.f5288c40.chunk.js.map",
+    "static/js/2.fae51535.chunk.js": "/binodfolio/static/js/2.fae51535.chunk.js",
+    "static/js/2.fae51535.chunk.js.map": "/binodfolio/static/js/2.fae51535.chunk.js.map",
     "index.html": "/binodfolio/index.html",
-    "static/css/main.827c92e4.chunk.css.map": "/binodfolio/static/css/main.827c92e4.chunk.css.map",
-    "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/binodfolio/static/js/2.f5288c40.chunk.js.LICENSE.txt"
+    "static/css/main.55ddbabc.chunk.css.map": "/binodfolio/static/css/main.55ddbabc.chunk.css.map",
+    "static/js/2.fae51535.chunk.js.LICENSE.txt": "/binodfolio/static/js/2.fae51535.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da26e2ec.js",
-    "static/js/2.f5288c40.chunk.js",
-    "static/css/main.827c92e4.chunk.css",
-    "static/js/main.b6f0a7b5.chunk.js"
+    "static/js/2.fae51535.chunk.js",
+    "static/css/main.55ddbabc.chunk.css",
+    "static/js/main.4280c5ee.chunk.js"
   ]
 }
