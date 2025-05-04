@@ -22,7 +22,7 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Job Portal',
     description:
       'During my postgraduate program, I built web and mobile applications for a job portal, incorporating advanced security measures such as JWT authentication and AES-256 encryption. The platform features job posting, application management, and user role-based access, ensuring a seamless experience for all stakeholders. I also prioritized GDPR compliance and developed a responsive user interface tailored for both web and mobile platforms, delivering a secure and user-friendly solution.',
     stack: ['Flutter', 'BLoC', 'Spring Boot'],
@@ -30,7 +30,7 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Food Order Management App',
     description:
       'I developed a mobile app designed for waitstaff in restaurants and hotels to streamline food order management, enhancing efficiency and accuracy in service. The app gained traction quickly, achieving over 100 downloads, reflecting its practicality and user-focused design.',
     stack: ['Flutter', 'Provider', 'MVC'],
@@ -38,7 +38,7 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Blogging Platform',
     description:
       ' As part of my postgraduate studies, I built an offline blogging platform that empowers users with full control over their posts and media, ensuring privacy and accessibility even without an internet connection. The platform features intuitive navigation and a robust search functionality, enabling users to effortlessly manage and locate their content. This project highlights my ability to design and develop user-centric solutions tailored for seamless offline experiences.',
     stack: ['Flutter', 'BLoC', 'SQLite'],
@@ -69,6 +69,7 @@ const skills = [
   'Clean Code',
   'Git',
   'CI/CD',
+  'DSA'
 ]
 
 const contact = {
