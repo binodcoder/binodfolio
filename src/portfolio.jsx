@@ -9,7 +9,7 @@ const about = {
   name: 'Binod Bhandari',
   role: 'Graduate Software Engineer',
   description:
-    'MSc Computer Science graduate with distinction and experience developing mobile and web applications using Flutter, Spring Boot, and MySQL. Skilled in delivering innovative, user-focused solutions, including GDPR-compliant platforms. Seeking to contribute technical expertise to an administrative/IT system role in the UK.',
+    'MSc Computer Science graduate with distinction and experience developing mobile and web applications using Flutter, Spring Boot, and MySQL. Skilled in delivering innovative, user-focused solutions, including GDPR-compliant platforms. Seeking to contribute technical expertise to an Software Development role in the UK.',
   resume:
     'https://1drv.ms/b/c/c4e7f71ed159e7bf/EdzGTkMLvL1IkaYFhuqx27sBkwS6loLtk0jJDLeuK8IoVg?e=AUARhX',
   social: {
